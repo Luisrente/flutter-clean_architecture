@@ -1,0 +1,10 @@
+export 'package:clean_architecture/pages/alert_screen.dart';
+export 'package:clean_architecture/pages/animated_screen.dart';
+export 'package:clean_architecture/pages/avatar_screen.dart';
+export 'package:clean_architecture/pages/card_screen.dart';
+export 'package:clean_architecture/pages/home_screen.dart';
+export 'package:clean_architecture/pages/inputs_screen.dart';
+export 'package:clean_architecture/pages/listview1_screen.dart.dart';
+export 'package:clean_architecture/pages/listview2_screen.dart';
+export 'package:clean_architecture/pages/slider_screen.dart';
+export 'package:clean_architecture/pages/listview1_screen.dart.dart';
